@@ -4,3 +4,11 @@
     justify-content: center;
     height: 100vh;
 }
+#foot {
+    text-align: center;
+    justify-content: center;
+}
+#like {
+    border: none;
+    border-style: hidden;
+}
